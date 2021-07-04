@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(207, 107, 146);
+}
+.headline1{
+    text-align: ;
+    font-size: 20px;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace ;
+}
+.new{
+    border: 5px crimson;
+    text-decoration: blueviolet;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#S{
+    font-family: cursive;
+}
